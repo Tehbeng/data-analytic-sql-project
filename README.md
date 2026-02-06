@@ -8,4 +8,8 @@ This repo is a comprehensive collection of SQL scripts for data exploration, ana
 
 This Project is licensed under [MIT License](LICENSE). Feel free to use,modify and share.
 
+#### Lets Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fariszulkefli)
+
 #### Credit to Data with Bara for the guidance
