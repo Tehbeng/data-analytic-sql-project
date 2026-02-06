@@ -6,6 +6,6 @@ This repo is a comprehensive collection of SQL scripts for data exploration, ana
 
 #### License
 
-This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
+This Project is licensed under [MIT License](LICENSE). Feel free to use,modify and share.
 
 #### Credit to Data with Bara for the guidance
